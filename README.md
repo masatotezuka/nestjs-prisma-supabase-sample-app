@@ -1,8 +1,8 @@
 # NestJS・Prisma・Supabase での環境構築
 
-こちらの記事を執筆するときに作成したリポジトリです。
+「[NestJS×Prisma×Supabase で爆速環境構築](https://zenn.dev/masatotezuka/articles/supabase_prisma_20230826)」を執筆するときに作成したリポジトリです。
 
-# サーバー起動
+### サーバー起動
 
 ```
 pnpm install
